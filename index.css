@@ -18,6 +18,7 @@ main {
   height: 100%;
   justify-content: space-between;
   align-items: center;
+  align-content: center;
 }
 
 footer {
