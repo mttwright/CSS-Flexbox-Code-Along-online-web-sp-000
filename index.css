@@ -19,7 +19,6 @@ main {
   justify-content: space-between;
   align-items: center;
   align-content: center;
-  flex-basis: content;
 }
 
 footer {
